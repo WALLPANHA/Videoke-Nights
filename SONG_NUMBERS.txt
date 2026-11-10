@@ -1,0 +1,341 @@
+Song numbers (use them to name lyric files, e.g. lyrics/10006.lrc)
+number | title | artist | category
+
+10001 | Kathang Isip | Ben&Ben | OPM
+10002 | Tadhana | Up Dharma Down | OPM
+10003 | Ikaw | Yeng Constantino | OPM
+10004 | Hawak Kamay | Yeng Constantino | OPM
+10005 | Pare Ko | Eraserheads | OPM
+10006 | Ang Huling El Bimbo | Eraserheads | OPM
+10007 | Torete | Moonstar88 | OPM
+10008 | Narda | Kamikazee | OPM
+10009 | Mundo | IV of Spades | OPM
+10010 | Buwan | Juan Karlos | OPM
+10011 | Ngayon at Kailanman | Basil Valdez | OPM
+10012 | Bakit Ngayon Ka Lang | Ice Seguerra | OPM
+10013 | Careless Whisper | George Michael | Love Songs
+10014 | Perfect | Ed Sheeran | Love Songs
+10015 | Endless Love | Diana Ross & Lionel Richie | Love Songs
+10016 | Truly Madly Deeply | Savage Garden | Love Songs
+10017 | I Don’t Want to Miss a Thing | Aerosmith | Love Songs
+10018 | Shape of You | Ed Sheeran | Pop
+10019 | Just the Way You Are | Bruno Mars | Pop
+10020 | Love Story | Taylor Swift | Pop
+10021 | Someone Like You | Adele | Pop
+10022 | Uptown Funk | Mark Ronson ft. Bruno Mars | Pop
+10023 | Dancing Queen | ABBA | Pop
+10024 | Bohemian Rhapsody | Queen | Rock
+10025 | Don’t Stop Believin’ | Journey | Rock
+10026 | Livin’ on a Prayer | Bon Jovi | Rock
+10027 | Zombie | The Cranberries | Rock
+10028 | Sweet Child o’ Mine | Guns N’ Roses | Rock
+10029 | Wonderwall | Oasis | Rock
+10030 | I Will Always Love You | Whitney Houston | Birit
+10031 | My Heart Will Go On | Celine Dion | Birit
+10032 | Hero | Mariah Carey | Birit
+10033 | All by Myself | Celine Dion | Birit
+10034 | I Have Nothing | Whitney Houston | Birit
+10035 | Sweet Caroline | Neil Diamond | Classics
+10036 | Take Me Home, Country Roads | John Denver | Classics
+10037 | My Way | Frank Sinatra | Classics
+10038 | Can’t Help Falling in Love | Elvis Presley | Classics
+10039 | Hotel California | Eagles | Classics
+10040 | Billie Jean | Michael Jackson | Classics
+10041 | Dynamite | BTS | K-Pop
+10042 | Gangnam Style | PSY | K-Pop
+10043 | How You Like That | BLACKPINK | K-Pop
+10044 | Super Shy | NewJeans | K-Pop
+10045 | Stayin’ Alive | Bee Gees | Disco & Reggae
+10046 | Don’t Worry, Be Happy | Bobby McFerrin | Disco & Reggae
+10047 | Three Little Birds | Bob Marley | Disco & Reggae
+10048 | Magasin | Eraserheads | OPM
+10049 | Alapaap | Eraserheads | OPM
+10050 | Ligaya | Eraserheads | OPM
+10051 | Overdrive | Eraserheads | OPM
+10052 | Huling Sandali | December Avenue | OPM
+10053 | Sa Ngalan ng Pag-ibig | December Avenue | OPM
+10054 | Kung ’Di Rin Lang Ikaw | December Avenue & Moira Dela Torre | OPM
+10055 | Ikaw at Ako | Moira Dela Torre & Jason Marvin | OPM
+10056 | Malaya | Moira Dela Torre | OPM
+10057 | Paubaya | Moira Dela Torre | OPM
+10058 | Titibo-tibo | Moira Dela Torre | OPM
+10059 | Tagpuan | Moira Dela Torre | OPM
+10060 | Pasilyo | SunKissed Lola | OPM
+10061 | Upuan | Gloc-9 ft. Jeazell Grutas | OPM
+10062 | Sirena | Gloc-9 ft. Ebe Dancel | OPM
+10063 | Gusto | Zack Tabudlo | OPM
+10064 | Binibini | Zack Tabudlo | OPM
+10065 | Give Me Your Forever | Zack Tabudlo | OPM
+10066 | Pano | Zack Tabudlo | OPM
+10067 | Palagi | TJ Monterde | OPM
+10068 | Marilag | Dionela | OPM
+10069 | Sining | Dionela ft. Jay R | OPM
+10070 | Oksihina | Dionela | OPM
+10071 | Mahika | Adie & Janine Berdin | OPM
+10072 | Dilaw | Maki | OPM
+10073 | Hari ng Sablay | Sugarfree | OPM
+10074 | Mariposa | Sugarfree | OPM
+10075 | Burnout | Sugarfree | OPM
+10076 | Prom | Sugarfree | OPM
+10077 | Migraine | Moonstar88 | OPM
+10078 | Stay | Cueshé | OPM
+10079 | Your Universe | Rico Blanco | OPM
+10080 | Yugto | Rico Blanco | OPM
+10081 | Balang Araw | I Belong to the Zoo | OPM
+10082 | Kilometro | Sarah Geronimo | OPM
+10083 | Tala | Sarah Geronimo | OPM
+10084 | Leaves | Ben&Ben | OPM
+10085 | Maybe the Night | Ben&Ben | OPM
+10086 | Sa Susunod na Habambuhay | Ben&Ben | OPM
+10087 | Araw-Araw | Ben&Ben | OPM
+10088 | Pagtingin | Ben&Ben | OPM
+10089 | Oo | Up Dharma Down | OPM
+10090 | Indak | Up Dharma Down | OPM
+10091 | Hey Barbara | IV of Spades | OPM
+10092 | Come Inside of My Heart | IV of Spades | OPM
+10093 | Ere | Juan Karlos | OPM
+10094 | Jopay | Mayonnaise | OPM
+10095 | Kisapmata | Rivermaya | OPM
+10096 | Awit ng Kabataan | Rivermaya | OPM
+10097 | 214 | Rivermaya | OPM
+10098 | Harana | Parokya ni Edgar | OPM
+10099 | Buloy | Parokya ni Edgar | OPM
+10100 | Gitara | Parokya ni Edgar | OPM
+10101 | Halik | Kamikazee | OPM
+10102 | Pinoy Ako | Orange and Lemons | OPM
+10103 | Heaven Knows | Orange and Lemons | OPM
+10104 | Pagsubok | Orange and Lemons | OPM
+10105 | Tatsulok | Bamboo | OPM
+10106 | Hallelujah | Bamboo | OPM
+10107 | Noypi | Bamboo | OPM
+10108 | Ako Si Superman | Rizal Underground | OPM
+10109 | Kung Wala Ka | Hale | OPM
+10110 | The Day You Said Goodnight | Hale | OPM
+10111 | Broken Hearted | Hale | OPM
+10112 | Kahit Ayaw Mo Na | This Band | OPM
+10113 | Ikaw Lamang | Silent Sanctuary | OPM
+10114 | Anak | Freddie Aguilar | OPM Classics
+10115 | Handog | Florante | OPM Classics
+10116 | Kumusta Ka | Rey Valera | OPM Classics
+10117 | Maging Sino Ka Man | Rey Valera | OPM Classics
+10118 | Kung Kailangan Mo Ako | Rey Valera | OPM Classics
+10119 | Awitin Mo at Isasayaw Ko | VST & Co. | OPM Classics
+10120 | Rock Baby Rock | VST & Co. | OPM Classics
+10121 | Swing | VST & Co. | OPM Classics
+10122 | Kailan | Smokey Mountain | OPM Classics
+10123 | Da Coconut Nut | Smokey Mountain | OPM Classics
+10124 | Paraiso | Smokey Mountain | OPM Classics
+10125 | Kapag Tumibok Ang Puso | Donna Cruz | OPM Classics
+10126 | Sana Maulit Muli | Gary Valenciano | OPM Classics
+10127 | Hataw Na | Gary Valenciano | OPM Classics
+10128 | Di Bale Na Lang | Gary Valenciano | OPM Classics
+10129 | Tuloy Pa Rin | Neocolours | OPM Classics
+10130 | Pangarap Ko Ang Ibigin Ka | Regine Velasquez | OPM Classics
+10131 | Dadalhin | Regine Velasquez | OPM Classics
+10132 | Pagdating ng Panahon | Aiza Seguerra | OPM Classics
+10133 | Forevermore | Side A | OPM Classics
+10134 | Hanggang | Wency Cornejo | OPM Classics
+10135 | Mahal Kita Walang Iba | Ogie Alcasid | OPM Classics
+10136 | Hanggang Ngayon | Ogie Alcasid & Regine Velasquez | OPM Classics
+10137 | Pagbigyang Muli | Arnel Pineda | OPM Classics
+10138 | A Thousand Years | Christina Perri | Love Songs
+10139 | All of Me | John Legend | Love Songs
+10140 | Marry You | Bruno Mars | Love Songs
+10141 | When I Was Your Man | Bruno Mars | Love Songs
+10142 | Lover | Taylor Swift | Love Songs
+10143 | Can You Feel the Love Tonight | Elton John | Love Songs
+10144 | Unchained Melody | The Righteous Brothers | Love Songs
+10145 | Say You Won’t Let Go | James Arthur | Love Songs
+10146 | Love Me Like You Do | Ellie Goulding | Love Songs
+10147 | Just Give Me a Reason | P!nk ft. Nate Ruess | Love Songs
+10148 | Kiss Me | Sixpence None the Richer | Love Songs
+10149 | Everything I Do (I Do It for You) | Bryan Adams | Love Songs
+10150 | Always | Bon Jovi | Love Songs
+10151 | Right Here Waiting | Richard Marx | Love Songs
+10152 | Open Arms | Journey | Love Songs
+10153 | Faithfully | Journey | Love Songs
+10154 | Through the Years | Kenny Rogers | Love Songs
+10155 | Lady | Kenny Rogers | Love Songs
+10156 | I Swear | All-4-One | Love Songs
+10157 | Because You Loved Me | Celine Dion | Love Songs
+10158 | Thinking Out Loud | Ed Sheeran | Love Songs
+10159 | Photograph | Ed Sheeran | Love Songs
+10160 | Someone You Loved | Lewis Capaldi | Love Songs
+10161 | Blinding Lights | The Weeknd | Pop
+10162 | Levitating | Dua Lipa | Pop
+10163 | Don’t Start Now | Dua Lipa | Pop
+10164 | Watermelon Sugar | Harry Styles | Pop
+10165 | As It Was | Harry Styles | Pop
+10166 | Flowers | Miley Cyrus | Pop
+10167 | Shake It Off | Taylor Swift | Pop
+10168 | Anti-Hero | Taylor Swift | Pop
+10169 | Bad Guy | Billie Eilish | Pop
+10170 | Counting Stars | OneRepublic | Pop
+10171 | Rolling in the Deep | Adele | Pop
+10172 | Hello | Adele | Pop
+10173 | Girls Just Want to Have Fun | Cyndi Lauper | Pop
+10174 | Like a Prayer | Madonna | Pop
+10175 | Firework | Katy Perry | Pop
+10176 | Roar | Katy Perry | Pop
+10177 | Happy | Pharrell Williams | Pop
+10178 | Can’t Stop the Feeling! | Justin Timberlake | Pop
+10179 | Sorry | Justin Bieber | Pop
+10180 | Love Yourself | Justin Bieber | Pop
+10181 | Havana | Camila Cabello | Pop
+10182 | Señorita | Shawn Mendes & Camila Cabello | Pop
+10183 | Treat You Better | Shawn Mendes | Pop
+10184 | Sunflower | Post Malone & Swae Lee | Pop
+10185 | Shallow | Lady Gaga & Bradley Cooper | Pop
+10186 | Poker Face | Lady Gaga | Pop
+10187 | Just Dance | Lady Gaga | Pop
+10188 | Umbrella | Rihanna | Pop
+10189 | Halo | Beyoncé | Pop
+10190 | Single Ladies | Beyoncé | Pop
+10191 | Toxic | Britney Spears | Pop
+10192 | ...Baby One More Time | Britney Spears | Pop
+10193 | It’s Gonna Be Me | *NSYNC | Pop
+10194 | Bye Bye Bye | *NSYNC | Pop
+10195 | I Want It That Way | Backstreet Boys | Pop
+10196 | Everybody | Backstreet Boys | Pop
+10197 | Larger Than Life | Backstreet Boys | Pop
+10198 | Wannabe | Spice Girls | Pop
+10199 | I Believe I Can Fly | R. Kelly | Birit
+10200 | Listen | Beyoncé | Birit
+10201 | The Greatest Love of All | Whitney Houston | Birit
+10202 | How Will I Know | Whitney Houston | Birit
+10203 | I Wanna Dance with Somebody | Whitney Houston | Birit
+10204 | Vision of Love | Mariah Carey | Birit
+10205 | Without You | Mariah Carey | Birit
+10206 | Emotions | Mariah Carey | Birit
+10207 | The Power of Love | Celine Dion | Birit
+10208 | It’s All Coming Back to Me Now | Celine Dion | Birit
+10209 | Total Eclipse of the Heart | Bonnie Tyler | Birit
+10210 | Nothing Compares 2 U | Sinéad O’Connor | Birit
+10211 | Defying Gravity | Idina Menzel | Birit
+10212 | Alone | Heart | Birit
+10213 | Titanium | David Guetta ft. Sia | Birit
+10214 | Chandelier | Sia | Birit
+10215 | We Will Rock You | Queen | Rock
+10216 | Don’t Stop Me Now | Queen | Rock
+10217 | Another One Bites the Dust | Queen | Rock
+10218 | Somebody to Love | Queen | Rock
+10219 | Under Pressure | Queen & David Bowie | Rock
+10220 | Stairway to Heaven | Led Zeppelin | Rock
+10221 | Smoke on the Water | Deep Purple | Rock
+10222 | Highway to Hell | AC/DC | Rock
+10223 | Back in Black | AC/DC | Rock
+10224 | Enter Sandman | Metallica | Rock
+10225 | Nothing Else Matters | Metallica | Rock
+10226 | Smells Like Teen Spirit | Nirvana | Rock
+10227 | Come as You Are | Nirvana | Rock
+10228 | Creep | Radiohead | Rock
+10229 | Yellow | Coldplay | Rock
+10230 | Viva la Vida | Coldplay | Rock
+10231 | Fix You | Coldplay | Rock
+10232 | Mr. Brightside | The Killers | Rock
+10233 | Seven Nation Army | The White Stripes | Rock
+10234 | Basket Case | Green Day | Rock
+10235 | Boulevard of Broken Dreams | Green Day | Rock
+10236 | In the End | Linkin Park | Rock
+10237 | Numb | Linkin Park | Rock
+10238 | Complicated | Avril Lavigne | Rock
+10239 | Eye of the Tiger | Survivor | Rock
+10240 | More Than a Feeling | Boston | Rock
+10241 | Dream On | Aerosmith | Rock
+10242 | Crazy | Aerosmith | Rock
+10243 | Pour Some Sugar on Me | Def Leppard | Rock
+10244 | Here I Go Again | Whitesnake | Rock
+10245 | Wind of Change | Scorpions | Rock
+10246 | Still Loving You | Scorpions | Rock
+10247 | November Rain | Guns N’ Roses | Rock
+10248 | Welcome to the Jungle | Guns N’ Roses | Rock
+10249 | Paradise City | Guns N’ Roses | Rock
+10250 | Imagine | John Lennon | Classics
+10251 | Hey Jude | The Beatles | Classics
+10252 | Let It Be | The Beatles | Classics
+10253 | Yesterday | The Beatles | Classics
+10254 | Take On Me | a-ha | Classics
+10255 | Livin’ la Vida Loca | Ricky Martin | Classics
+10256 | Wonderful Tonight | Eric Clapton | Classics
+10257 | Tears in Heaven | Eric Clapton | Classics
+10258 | Stand by Me | Ben E. King | Classics
+10259 | What a Wonderful World | Louis Armstrong | Classics
+10260 | Fly Me to the Moon | Frank Sinatra | Classics
+10261 | New York, New York | Frank Sinatra | Classics
+10262 | Killing Me Softly with His Song | Roberta Flack | Classics
+10263 | Bridge over Troubled Water | Simon & Garfunkel | Classics
+10264 | The Sound of Silence | Simon & Garfunkel | Classics
+10265 | Rocket Man | Elton John | Classics
+10266 | Your Song | Elton John | Classics
+10267 | I’m Still Standing | Elton John | Classics
+10268 | Africa | Toto | Classics
+10269 | Hello | Lionel Richie | Classics
+10270 | Say You, Say Me | Lionel Richie | Classics
+10271 | All Night Long | Lionel Richie | Classics
+10272 | Easy | Commodores | Classics
+10273 | Three Times a Lady | Commodores | Classics
+10274 | Lean on Me | Bill Withers | Classics
+10275 | Ain’t No Sunshine | Bill Withers | Classics
+10276 | Mamma Mia | ABBA | Disco & Reggae
+10277 | Take a Chance on Me | ABBA | Disco & Reggae
+10278 | Waterloo | ABBA | Disco & Reggae
+10279 | I Will Survive | Gloria Gaynor | Disco & Reggae
+10280 | Y.M.C.A. | Village People | Disco & Reggae
+10281 | September | Earth, Wind & Fire | Disco & Reggae
+10282 | Boogie Wonderland | Earth, Wind & Fire | Disco & Reggae
+10283 | Celebration | Kool & the Gang | Disco & Reggae
+10284 | Last Dance | Donna Summer | Disco & Reggae
+10285 | Hot Stuff | Donna Summer | Disco & Reggae
+10286 | Don’t Stop ’Til You Get Enough | Michael Jackson | Disco & Reggae
+10287 | No Woman, No Cry | Bob Marley & The Wailers | Disco & Reggae
+10288 | One Love | Bob Marley & The Wailers | Disco & Reggae
+10289 | Is This Love | Bob Marley & The Wailers | Disco & Reggae
+10290 | Could You Be Loved | Bob Marley & The Wailers | Disco & Reggae
+10291 | Red Red Wine | UB40 | Disco & Reggae
+10292 | Lose Yourself | Eminem | Hip-Hop & R&B
+10293 | Without Me | Eminem | Hip-Hop & R&B
+10294 | Love the Way You Lie | Eminem ft. Rihanna | Hip-Hop & R&B
+10295 | In Da Club | 50 Cent | Hip-Hop & R&B
+10296 | Empire State of Mind | Jay-Z & Alicia Keys | Hip-Hop & R&B
+10297 | No Scrubs | TLC | Hip-Hop & R&B
+10298 | Waterfalls | TLC | Hip-Hop & R&B
+10299 | Say My Name | Destiny’s Child | Hip-Hop & R&B
+10300 | Survivor | Destiny’s Child | Hip-Hop & R&B
+10301 | Fallin’ | Alicia Keys | Hip-Hop & R&B
+10302 | If I Ain’t Got You | Alicia Keys | Hip-Hop & R&B
+10303 | Let’s Get It On | Marvin Gaye | Hip-Hop & R&B
+10304 | Locked Out of Heaven | Bruno Mars | Hip-Hop & R&B
+10305 | That’s What I Like | Bruno Mars | Hip-Hop & R&B
+10306 | Boy with Luv | BTS | K-Pop
+10307 | Butter | BTS | K-Pop
+10308 | Fake Love | BTS | K-Pop
+10309 | DDU-DU DDU-DU | BLACKPINK | K-Pop
+10310 | Kill This Love | BLACKPINK | K-Pop
+10311 | Lovesick Girls | BLACKPINK | K-Pop
+10312 | Love Dive | IVE | K-Pop
+10313 | Hype Boy | NewJeans | K-Pop
+10314 | Ditto | NewJeans | K-Pop
+10315 | OMG | NewJeans | K-Pop
+10316 | Next Level | aespa | K-Pop
+10317 | TT | TWICE | K-Pop
+10318 | Cheer Up | TWICE | K-Pop
+10319 | Fancy | TWICE | K-Pop
+10320 | Gee | Girls’ Generation | K-Pop
+10321 | Sorry, Sorry | Super Junior | K-Pop
+10322 | Bang Bang Bang | BIGBANG | K-Pop
+10323 | Psycho | Red Velvet | K-Pop
+10324 | Jolene | Dolly Parton | Country & Folk
+10325 | 9 to 5 | Dolly Parton | Country & Folk
+10326 | Friends in Low Places | Garth Brooks | Country & Folk
+10327 | Islands in the Stream | Kenny Rogers & Dolly Parton | Country & Folk
+10328 | Tennessee Whiskey | Chris Stapleton | Country & Folk
+10329 | You Belong with Me | Taylor Swift | Country & Folk
+10330 | Blowin’ in the Wind | Bob Dylan | Country & Folk
+10331 | Annie’s Song | John Denver | Country & Folk
+10332 | Sunshine on My Shoulders | John Denver | Country & Folk
+10333 | Despacito | Luis Fonsi & Daddy Yankee | Latin
+10334 | Bailando | Enrique Iglesias | Latin
+10335 | Hips Don’t Lie | Shakira | Latin
+10336 | Waka Waka (This Time for Africa) | Shakira | Latin
+10337 | La Bamba | Ritchie Valens | Latin
+10338 | Macarena | Los del Río | Latin
